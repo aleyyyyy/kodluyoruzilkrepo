@@ -9,7 +9,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 Öncelikle projeyi clonelayın.
 
-git clone https://github.com/aleyyyyy/kodluyoruzilkrepo.git
+'''git clone https://github.com/aleyyyyy/kodluyoruzilkrepo.git'''
 
 
 
@@ -19,8 +19,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'cd kodluyoruzilkrepo
-code .'
+'''cd kodluyoruzilkrepo
+code .'''
 
 
 
